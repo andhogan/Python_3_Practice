@@ -1,0 +1,1 @@
+This folder contains Python 3 Practice expanded across several platforms. Here, I document my practice by uploading it into their respective directories for organizational purposes.
