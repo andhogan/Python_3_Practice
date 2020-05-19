@@ -1,0 +1,1 @@
+Hello world! My name is Andrew. I'm using this repository to store my Python 3 Practice. I am practicing using Git for my technological needs. I hope this will all come in handy some day. Cheers!
